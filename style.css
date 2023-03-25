@@ -728,6 +728,7 @@ footer .social i {
   border: 1px solid #088178;
   border-radius: 7px;
   color: #fff;
+  cursor: pointer;
 }
 #pro-details .siglepro-details input:focus {
   outline: none;
