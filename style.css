@@ -518,6 +518,12 @@ footer .social i {
     top: 30px;
     right: 50px;
     font-size: 1.8rem;
+    background-color: #606063;
+    height: 40px;
+    padding: 10px;
+    border-radius: 50%;
+    align-items: center;
+    color: #fff;
   }
   #ig-bag {
     display: none;
