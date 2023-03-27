@@ -1004,6 +1004,8 @@ p {
   color: #000;
   text-decoration: none;
 }
+
+/* contact media quary */
 @media screen and (max-width: 799px) {
   #form-details {
     padding: 40px;
@@ -1035,5 +1037,12 @@ p {
   #form-details form {
     width: 100%;
     margin-bottom: 30px;
+  }
+  #page-header p {
+    padding: 0 20px;
+  }
+  .contact-heading p,
+  .about-heading p {
+    line-height: 1.5rem;
   }
 }
